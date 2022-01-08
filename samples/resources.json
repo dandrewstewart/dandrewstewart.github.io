@@ -1,0 +1,6 @@
+[
+{ "url":"powchord/00_chord1_Bbmaj.wav","type":"audio","bank":"powchord","n":0},
+{ "url":"powchord/01_chord2_Edim.wav","type":"audio","bank":"powchord","n":1},
+{ "url":"powchord/02_chord3_Fmin.wav","type":"audio","bank":"powchord","n":2},
+{ "url":"powchord/03_chord4_FminM7.wav","type":"audio","bank":"powchord","n":3}
+]
