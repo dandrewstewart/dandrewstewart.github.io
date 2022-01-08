@@ -1,7 +1,7 @@
 [
-{ "url":"intervl/00_mayor_ep5.wav","type":"audio","bank":"intervl","n":0},
-{ "url":"intervl/01_mayor_fp5.wav","type":"audio","bank":"intervl","n":1},
-{ "url":"intervl/02_mayor_gp5.wav","type":"audio","bank":"intervl","n":2},
+{ "url":"mayor/00_mayor_ep5.wav","type":"audio","bank":"mayor","n":0},
+{ "url":"mayor/01_mayor_fp5.wav","type":"audio","bank":"mayor","n":1},
+{ "url":"mayor/02_mayor_gp5.wav","type":"audio","bank":"mayor","n":2},
 { "url":"powchord/00_chord1_Bbmaj.wav","type":"audio","bank":"powchord","n":0},
 { "url":"powchord/01_chord2_Edim.wav","type":"audio","bank":"powchord","n":1},
 { "url":"powchord/02_chord3_Fmin.wav","type":"audio","bank":"powchord","n":2},
