@@ -1,0 +1,1 @@
+Clown Trump explains a lot of people don't know dumb has a "B"
